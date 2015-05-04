@@ -1,0 +1,1 @@
+<footer id="copyright text-right">Copyright © 2015. Creat de <a href="http://adry.ro">adry.ro</a></footer>
